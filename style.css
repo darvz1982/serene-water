@@ -6,5 +6,26 @@
   .serenemotto {
     font-style: oblique;
     float: inherit;
+    
   }
 
+  h1.serenemotto:hover, h1.serenemotto:active {
+    color: blue;
+    text-decoration: underline;
+  }
+
+  h3.serenemotto:hover, h3.serenemotto:active {
+    color: blue;
+    text-decoration: underline;
+  }
+
+
+  #serenelogo {
+    img:hover {
+      opacity: 0.5;
+    }
+  }
+
+  img:hover {
+    opacity: 0.5;
+  }

@@ -29,3 +29,24 @@
   img:hover {
     opacity: 0.5;
   }
+
+  .serenelogo1 {
+    border-radius: 20px;
+  }
+
+  .serenelogo2 {
+    border-style: groove;
+    border-radius: 20px;
+  }
+
+  .serenelogo3 {
+    border-style: groove;
+    border-radius: 20px;
+  }
+
+  .serenelogo4 {
+    border-style: groove;
+    border-radius: 20px;
+  }
+
+  

@@ -26,8 +26,8 @@
     }
   }
 
-  img:hover {
-    opacity: 0.5;
+  img {
+    align-items: center;
   }
 
   .serenelogo1 {
@@ -49,4 +49,6 @@
     border-radius: 20px;
   }
 
-  
+  .one {
+    align-items: center;
+  }
